@@ -5,3 +5,4 @@ git has mutable index called stage
 git tracked changed
 test github
 test CompanyOrigin
+checkout dev branch
