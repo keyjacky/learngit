@@ -1,1 +1,2 @@
-Craet the git repository
+Craeted the git repository
+changed
