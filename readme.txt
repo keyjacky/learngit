@@ -7,3 +7,4 @@ test github
 test CompanyOrigin
 checkout dev branch
 creating a new branch is simple & quick
+—no-ff
